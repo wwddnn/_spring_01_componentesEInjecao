@@ -4,7 +4,7 @@
 - Esse programa tem sua construção de uma forma ERRADA em relação ao conceito de inversão de controle. 
 - Justamente porque dentro da classe SalaryService instanciamos os servicos de TaxService e PensionService.
 
-# 🔧 tecnologies and knowleads applicated:
+# 🔧 tecnologias e conhecimentos aplicados:
 - 🎯Linguagem Java.
 - 🎯IDE InteliJ.
 - 🎯SPRING Framework Java.
